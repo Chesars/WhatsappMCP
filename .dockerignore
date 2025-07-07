@@ -1,0 +1,6 @@
+.git
+*.db
+*.log
+*.tmp
+.DS_Store
+store/ 
